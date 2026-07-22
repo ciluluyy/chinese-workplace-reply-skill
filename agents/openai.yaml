@@ -1,10 +1,7 @@
 interface:
-  display_name: "\u4E2D\u56FD\u5F0F\u804C\u573A\u5FAE\u4FE1\u56DE\u590D"
-  short_description: "\u6309\u5BF9\u8C61\u3001\u6743\u529B\u5173\u7CFB\u548C\u8BED\
-    \u6C14\u6863\u4F4D\u751F\u6210\u53EF\u76F4\u63A5\u53D1\u9001\u7684\u804C\u573A\
-    \u5FAE\u4FE1\u56DE\u590D"
-  default_prompt: Use $craft-chinese-workplace-replies to draft a natural Chinese
-    workplace WeChat reply with the right relationship and tone.
+  display_name: "中国式职场微信回复"
+  short_description: "按对象关系和四档锋利度生成自然、可直接发送的职场微信回复"
+  default_prompt: "Use $craft-chinese-workplace-replies to draft a natural Chinese workplace reply at the friendly, normal, ironic, or sharp-roast level."
 policy:
   products:
   - chatgpt
